@@ -1,6 +1,6 @@
 # LaureaTriennale-ProvaFinale
 
-Progetto per la prova finale della laurea triennale (Dipartimento di Informatica @UNISA, anno accademico 2020/2021).
+Progetto per la prova finale della laurea triennale (Dipartimento di Informatica UNISA, anno accademico 2020/2021).
 
 ## Introduzione
 
